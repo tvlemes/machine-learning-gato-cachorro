@@ -1,10 +1,10 @@
-# Machine Learning Decision Tree
+# Machine Learning Gato Cachorro
 
 <!-- Sobre o projeto -->
 ## Sobre o projeto
 Este repositório contém o algoritmo de Machine Learning de Classificação para classificar o dataset caso seja Gato ou Cachorro. 
 
-[![NPM](https://img.shields.io/github/license/tvlemes/machine-learning-gato-cachorro)](https://github.com/tvlemes/machine-learning-gato-cachorro/blob/main/license)
+[![NPM](https://img.shields.io/github/license/tvlemes/machine-learning-gato-cachorro?style=plastic)](https://github.com/tvlemes/machine-learning-gato-cachorro/blob/main/license)
 
 ![](/images/01.PNG)
 
